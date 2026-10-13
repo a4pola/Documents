@@ -375,3 +375,6 @@ firewall-cmd --permanent --add-port=ssh
 *   **home** - аналогично internal;
 *   **trusted** - всё разрешено.
 
+# Создание скриптов
+
+__`#!/bin/bash`__ прописываем ниже в скрипте что мы хотим в моем случае выставил на nvibrant 450.
